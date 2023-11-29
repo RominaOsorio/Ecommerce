@@ -145,6 +145,10 @@ li {
      padding-bottom: 2rem;
 }
 
+.card-contenido{
+     padding-left: 2rem;
+}
+
 .precio{
     font-weight: 600; 
 }
